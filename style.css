@@ -1,0 +1,23 @@
+
+#team-form {
+    position: relative;
+    left: 936px;
+}
+
+
+
+  button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    background-color: black;
+  }
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    color: white;
+}
+#teamButtons{
+    color: white;
+}
